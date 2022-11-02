@@ -18,6 +18,7 @@ Deep learning models trained on annotated datasets (source domain) are often obs
 | [PV-RCNN](tools/cfgs/da-nuscenes-kitti_models/pvrcnn_st3d/pvrcnn_st3d.yaml) | ST3D | 42.3 | 40.9 |
 | [PV-RCNN](tools/cfgs/da-nuscenes-kitti_models/pvrcnn_st3d/pvrcnn_st3d.yaml) | **ST3DMT** | **69.53** | **68.48** |
 
+For more detailed information, please refer to our [project paper](docs/project.pdf)
 
 ## Installation
 
